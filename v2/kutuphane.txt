@@ -1,0 +1,5 @@
+title : "kaşağı" - author : "seyfettin" - publisher : "can" - type : "kurgu" - edition : "4"
+title : "istanbul hatirasi" - author : "ahmet ümit" - publisher : "ada" - type : "polisiye" - edition : "2"
+title : "sefiller" - author : "victor hugo" - publisher : "mentis" - type : "drama" - edition : "5"
+title : "araba sevdası" - author : "recaizade mahmut ekrem" - publisher : "bilim" - type : "realist roman" - edition : "3"
+title : "insan ne ile yaşar" - author : "lev tolstoy" - publisher : "inci" - type : "kurgu" - edition : "4"
